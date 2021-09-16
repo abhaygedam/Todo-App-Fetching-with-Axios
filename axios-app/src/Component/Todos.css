@@ -1,0 +1,54 @@
+.input {
+  width: 400px;
+  height: 40px;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding-left: 10px;
+  margin-right: 10px;
+  outline: none;
+  margin-left: 500px;
+}
+
+.butt {
+  width: 60px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-top: 22px;
+}
+
+.todos {
+  width: 30%;
+  margin-left: 32%;
+  margin-top: 20px;
+  display: flex;
+  border: 1px solid rgb(129, 128, 128);
+  border-radius: 5px;
+  box-shadow: 2px 2px rgb(187, 187, 187);
+}
+
+.text {
+  width: 200px;
+  margin: 20px;
+  margin-right: 150px;
+  margin-left: 0;
+  font-size: 20px;
+}
+
+.todos button {
+  width: 60px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.show {
+  margin-left: -5%;
+  margin-top: 20px;
+}
+
+.butts {
+  width: 200px;
+  margin: auto;
+  display: flex;
+  padding: 20px;
+}

@@ -1,0 +1,13 @@
+
+import Todos from './Component/Todos';
+
+function App() {
+
+  return (
+    <div className="App">
+     <Todos />
+    </div>
+  );
+}
+
+export default App;
